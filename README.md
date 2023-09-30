@@ -30,7 +30,7 @@ Storre is licensed under the [Creative Commons Attribution-NonCommercial 4.0 Int
 * 0.1μF Capacitor (2)
 * 16 pin IC socket (2)
 * IC (74HC138N) demultiplexer (2)
-* Switches (5 pin MX footprint) (up to 96 depending on layout)
+* Switches (5 pin MX footprint) (up to 87 depending on layout)
 * Rotary encoders (2)
 * Rotary encoder knobs (2)
 * 0.91" OLED screen
