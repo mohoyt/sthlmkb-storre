@@ -1,13 +1,13 @@
-# storre
-Storre is an easy to build 75% keyboard using only through hole components. It uses a separate microcontroller (like the Pro Micro, Elite C or something RP2040 based) to enable flexibility in firmware and connectivity and to further simplify the soldering experience (no more tricksy USB ports). Demultiplexers and a custom matrix are used to enable the size and features of the board with only the pinouts of a pro micro. 
+# större
+Större is an easy to build 75% keyboard using only through hole components. It uses a separate microcontroller (like the Pro Micro, Elite C or something RP2040 based) to enable flexibility in firmware and connectivity and to further simplify the soldering experience (no more tricksy USB ports). Demultiplexers and a custom matrix are used to enable the size and features of the board with only the pinouts of a pro micro. 
 
-![storre](img/storre.jpeg "storre")
+![större](img/storre.jpeg "större")
 
-**Storre kits are available for sale at [sthlmkb.com](https://sthlmkb.com/shop/storre-keyboard-kit/)**
+**större kits are available for sale at [sthlmkb.com](https://sthlmkb.com/shop/storre-keyboard-kit/)**
 
 [License](LICENSE)
 
-Storre is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/). This design as it stands in this repository may be freely reproduced, modified, and manufactured for PERSONAL USE ONLY and may not be reproduced in physical form for public sale. 
+större is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/). This design as it stands in this repository may be freely reproduced, modified, and manufactured for PERSONAL USE ONLY and may not be reproduced in physical form for public sale. 
 
 ## Features
 * Only through hole components for easy soldering
@@ -44,12 +44,13 @@ Storre is licensed under the [Creative Commons Attribution-NonCommercial 4.0 Int
 
 [Firmware available here](firmware)
 
-![storre base](img/storre_base.jpeg "storre base")
+![större base](img/storre_base.jpeg "större base")
 
-![storre](img/storre.png "storre pcb")
+![större](img/storre.png "större pcb")
 
 ## Known issues 
 * Initial batch of v1 boards did not have side switch mounting holes on the tab key. You will have to trim them for this key if you are using 5 pin switches. 
+* Initial batch of v1 boards says storre instead of större at the top of the board
 
 ## Where to buy
-Storre kits are available for sale exclusively at [sthlmkb.com](https://sthlmkb.com/shop/storre-keyboard-kit/)
+större kits are available for sale exclusively at [sthlmkb.com](https://sthlmkb.com/shop/storre-keyboard-kit/)

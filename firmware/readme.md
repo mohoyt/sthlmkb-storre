@@ -1,6 +1,6 @@
-# storre
+# större
 
-Storre is an easy to build 65%ish keyboard using only through hole components. It uses a separate microcontroller (like the Pro Micro or Elite C) to enable flexibility in connectivity and to further simplify the soldering experience (no more tricksy USB ports).
+Större is an easy to build 75% keyboard using only through hole components. It uses a separate microcontroller (like the Pro Micro or Elite C) to enable flexibility in connectivity and to further simplify the soldering experience (no more tricksy USB ports).
 
 * Keyboard Maintainer: [mohoyt](https://github.com/mohoyt)
 * Hardware Supported: storre, Pro Micro, Elite-C, Puchi-C, Nice!Nano and more...
