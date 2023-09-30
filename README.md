@@ -42,6 +42,8 @@ Storre is licensed under the [Creative Commons Attribution-NonCommercial 4.0 Int
 
 [Build guide available here](build_guide.md)
 
+[Firmware available here](firmware)
+
 ![storre base](img/storre_base.jpeg "storre base")
 
 ![storre](img/storre.png "storre pcb")
