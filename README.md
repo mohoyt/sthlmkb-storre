@@ -19,7 +19,7 @@ större is licensed under the [Creative Commons Attribution-NonCommercial 4.0 In
 * Open and visible components (in the style of Plaid, Romac etc)
 * Simple, beautiful and flexible sandwich case out of FR4 (pcb material)
 
-![lagom layout](img/layout.png "lagom layout")
+![lagom layout](img/layout.png "storre layout")
 
 ## Components required 
 * PCB
@@ -40,13 +40,13 @@ större is licensed under the [Creative Commons Attribution-NonCommercial 4.0 In
 * Stabilisers (PCB mount) (5 x 2u or 3 x 2u + 6.25u or 3 x 2u + 7u depending on layout)
 * Rubber feet for the base
 
-[Build guide available here](build_guide.md)
+[Build guide available here](https://sthlmkb.com/2023/10/storre-build-guide/)
 
 [Firmware available here](firmware)
 
-![större base](img/storre_base.jpeg "större base")
+![större base](img/storre-back.jpeg "större back")
 
-![större](img/storre.png "större pcb")
+![större](img/storre_all.jpeg "större pcb")
 
 ## Known issues 
 * Initial batch of v1 boards did not have side switch mounting holes on the tab key. You will have to trim them for this key if you are using 5 pin switches. 
