@@ -37,6 +37,7 @@ Större is an easy to build 75% keyboard using only through hole components. It 
 * Rubber feet for the base
 
 [Build guide available here](https://sthlmkb.com/2023/10/storre-build-guide/)
+[Build timelapse available here](https://youtu.be/ZGffb1hYfCY)
 
 [Firmware available here](firmware)
 
