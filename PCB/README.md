@@ -1,7 +1,7 @@
 # större
 Större is an easy to build 75% keyboard using only through hole components. It uses a separate microcontroller (like the Pro Micro, Elite C or something RP2040 based) to enable flexibility in firmware and connectivity and to further simplify the soldering experience (no more tricksy USB ports). Demultiplexers and a custom matrix are used to enable the size and features of the board with only the pinouts of a pro micro. 
 
-![större](img/storre.jpeg "större")
+![större](../img/storre.jpeg "större")
 
 **större kits are available for sale at [sthlmkb.com](https://sthlmkb.com/shop/storre-keyboard-kit/)**
 
@@ -21,6 +21,6 @@ Lagom is licensed under the [Creative Commons Attribution-NonCommercial 4.0 Inte
 This the key layout and all option layouts exported from keyboard-layout-editor
 
 
-![schematic](schematic.jpg "schematic")
+[![schematic](schematic.jpg "schematic")](schematic.pdf)
 
 This is the schematic of the keyboard. See a higher res version [here](schematic.pdf)
