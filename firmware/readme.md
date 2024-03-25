@@ -16,6 +16,8 @@ Alternatively flash one of the precompiled hexes. There's a few options:
 * One's a Vial compatible image one with bongocat
 * Another's a Vial image with a WPM graph on it
 
+The .hex file is if you're using an Atmel chip (like a traditional Pro Micro). The uf2 files are for a RP2040 style pro micro like the Helios. 
+
 Once you've flashed one of the precompiled hexes, open the Vial app or head to [https://vial.rocks](https://vial.rocks) to configure your board. 
 
 ## RGB Lighting
